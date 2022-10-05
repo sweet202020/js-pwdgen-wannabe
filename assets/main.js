@@ -4,8 +4,8 @@ document.getElementById("name").innerHTML=(MyName)
 const surname = prompt("qual è il tuo cognome")
 console.log(surname);
 document.getElementById("surname").innerHTML= (surname)
-const favourite_color = prompt("qual è il tuo colore preferito?")
-console.log(favourite_color);
+const favouriteColor = prompt("qual è il tuo colore preferito?")
+console.log(favouriteColor);
 document.getElementById("favourite_color").innerHTML= (favourite_color)
 let currentYear = (22)
 console.log(currentYear);
